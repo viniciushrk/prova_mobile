@@ -1,16 +1,21 @@
-# prova_mobile
+# Test mobile
+    This app is result of a test from teacher Lucas Gabriel de Lima Gonçalves
+# Screen Weather
 
-A new Flutter project.
+- This screen use openweathermap like api
+- It works with simple arquiteture
+  ![Alt text](image-1.png)
+  ![Alt text](image-2.png)
 
-## Getting Started
+# Screen Money
 
-This project is a starting point for a Flutter application.
+- This Screen can choose a money, and after returns the value compared to other currencies
+- Use value static, but another update is possible use API
+  ![Alt text](image-3.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Screen to-do list
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- This part you can create a to-do list
+- The datas is save in LocalStorage
+- ⚠️If clean cache from app, the datas will clean
+  ![Alt text](image.png)
