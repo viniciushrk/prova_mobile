@@ -1,5 +1,7 @@
 # Test mobile
+
     This app is result of a test from teacher Lucas Gabriel de Lima Gonçalves
+
 # Screen Weather
 
 - This screen use openweathermap like api
@@ -19,3 +21,7 @@
 - The datas is save in LocalStorage
 - ⚠️If clean cache from app, the datas will clean
   ![Alt text](image.png)
+
+# How work ?
+
+![tela funcionando](screenwork.webm)
