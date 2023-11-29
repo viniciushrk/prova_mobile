@@ -24,4 +24,4 @@
 
 # How work ?
 
-![tela funcionando](screenwork.webm)
+![tela funcionando](screenwork.gif)
